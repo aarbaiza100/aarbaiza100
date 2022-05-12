@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,Mongo DB,**
 
-- 👯 I’m looking to collaborate on **blockchain, Dapps, etc**
+- 👯 I’m looking to collaborate on **Blockchain, Dapps, etc**
 
 - 👨‍💻 All of my projects are available at [www.alexisthe.dev](www.alexisthe.dev)
 
