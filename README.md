@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A full stack web developer from Houston</h3>
 
-- 🔭 I’m currently working on [Low Code Finance Apps](www.alexisthe.dev)
+- 🔭 I’m currently working on [Low Code Finance Apps](https://alexisthe.dev)
 
 - 🌱 I’m currently learning **React,Node.js,Mongo DB,**
 
