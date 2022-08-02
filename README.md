@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">A full stack web developer from Houston</h3>
+<h3 align="center">A Full Stack Web Developer from Houston</h3>
 
 - 🔭 I’m currently working on [Programming Language Learning App]()
 
